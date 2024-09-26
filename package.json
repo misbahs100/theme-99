@@ -1,0 +1,21 @@
+{
+  "name": "theme-99",
+  "displayName": "Theme 99",
+  "description": "A glitch of windows 98 but with greenish  vibe",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme 99",
+        "uiTheme": "vs",
+        "path": "./themes/Theme 99-color-theme.json"
+      }
+    ]
+  }
+}
